@@ -33,3 +33,5 @@ console.log("B =", myArr);
 const myn2 = myArr.splice(1, 4)
 console.log("C = ", myArr);
 console.log("B =", myn2);
+
+console.log("dean devil")
